@@ -16,7 +16,7 @@ Using ECLAT (Equivalence Class Clustering and bottom-up Lattice Traversal) algor
 7. Displaying the top 10 movies that users are likely to watch after watching the previous movie they watched.
 
 CONCLUSION:
-The top 3 movies that users are likely to watch after the previous movie they watched based on ECLAT are:
+The top 3 movies that users are likely to watch after the previous movie they watched based on ECLAT algorithm are:
 1. Interstellar & Inception
 2. Kanan Gill Comedy & Comedy nights with Kapil
 3. Harry Potter 1 & Harry Potter 2
